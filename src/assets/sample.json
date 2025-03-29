@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "distributor_name": "Alpha Distributors",
+    "last_month_quantity_shipped": 1200,
+    "ytd_avg_goods_per_month": 1100,
+    "forcasted_incoming_goods": 1300
+  },
+  {
+    "id": 2,
+    "distributor_name": "Beta Supplies",
+    "last_month_quantity_shipped": 900,
+    "ytd_avg_goods_per_month": 950,
+    "forcasted_incoming_goods": 1000
+  },
+  {
+    "id": 3,
+    "distributor_name": "Gamma Traders",
+    "last_month_quantity_shipped": 1500,
+    "ytd_avg_goods_per_month": 1400,
+    "forcasted_incoming_goods": 1600
+  },
+  {
+    "id": 4,
+    "distributor_name": "Delta Logistics",
+    "last_month_quantity_shipped": 800,
+    "ytd_avg_goods_per_month": 750,
+    "forcasted_incoming_goods": 850
+  },
+  {
+    "id": 5,
+    "distributor_name": "Epsilon Enterprises",
+    "last_month_quantity_shipped": 1350,
+    "ytd_avg_goods_per_month": 1250,
+    "forcasted_incoming_goods": 1400
+  },
+  {
+    "id": 6,
+    "distributor_name": "Zeta Wholesale",
+    "last_month_quantity_shipped": 1100,
+    "ytd_avg_goods_per_month": 1150,
+    "forcasted_incoming_goods": 1200
+  },
+  {
+    "id": 7,
+    "distributor_name": "Eta Imports",
+    "last_month_quantity_shipped": 700,
+    "ytd_avg_goods_per_month": 720,
+    "forcasted_incoming_goods": 750
+  },
+  {
+    "id": 8,
+    "distributor_name": "Theta Exports",
+    "last_month_quantity_shipped": 1700,
+    "ytd_avg_goods_per_month": 1650,
+    "forcasted_incoming_goods": 1750
+  },
+  {
+    "id": 9,
+    "distributor_name": "Iota Distributions",
+    "last_month_quantity_shipped": 950,
+    "ytd_avg_goods_per_month": 1000,
+    "forcasted_incoming_goods": 1100
+  },
+  {
+    "id": 10,
+    "distributor_name": "Kappa Supplies",
+    "last_month_quantity_shipped": 1250,
+    "ytd_avg_goods_per_month": 1300,
+    "forcasted_incoming_goods": 1350
+  }
+]
